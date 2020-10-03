@@ -1,0 +1,22 @@
+body {
+  background: url(./pexels-miguel-á-padriñán-3785931.jpg) no-repeat top center/cover;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.container{
+  background: #fff;
+  border-radius: 10px;
+  border: 5px rgb(1, 48, 75) solid;
+}
+
+h1 {
+  font-weight: 900;
+  color: rgb(1, 48, 75);
+}
+
+
+
